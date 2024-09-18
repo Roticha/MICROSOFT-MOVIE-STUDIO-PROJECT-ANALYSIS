@@ -4,7 +4,7 @@
 ## Introduction
 
 ###  Project Overview
-Microsoft is has decided to venture into movie industry and wants to launch its own movie studio.To successfully do this, we need to look at the trends and factors contributing to the success of other movie studios.
+Microsoft has decided to venture into movie industry and wants to launch its own movie studio.To successfully do this, we need to look at the trends and factors contributing to the success of other movie studios.
 
 ### 2. Goals
 1. Analyze movie data to uncover insights for decision making
